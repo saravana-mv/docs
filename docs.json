@@ -48,6 +48,12 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "Test folder",
+            "pages": [
+              "new-page"
+            ]
           }
         ]
       },
