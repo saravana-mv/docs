@@ -55,7 +55,9 @@
               "new-page",
               {
                 "group": "group",
-                "pages": []
+                "pages": [
+                  "test-page"
+                ]
               }
             ]
           }
