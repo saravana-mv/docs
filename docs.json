@@ -58,7 +58,8 @@
                 "pages": [
                   "test-page"
                 ]
-              }
+              },
+              "page-created-in-new-branch"
             ]
           }
         ]
