@@ -52,7 +52,11 @@
           {
             "group": "Test folder",
             "pages": [
-              "new-page"
+              "new-page",
+              {
+                "group": "group",
+                "pages": []
+              }
             ]
           }
         ]
